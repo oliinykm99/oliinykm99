@@ -11,5 +11,7 @@ Hello! I'm a Quantitative Researcher with a strong focus on data analysis, finan
 ![](https://github-readme-streak-stats.herokuapp.com/?user=oliinykm99&theme=dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=oliinykm99&theme=dark&hide=html,scss,stylus,blade,css,shell,batchfile,dockerfile,typescript&hide_border=true&include_all_commits=false&count_private=false)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oliinykm99&repo=gmx-st-dashboard&theme=dark&hide_border=true)](https://github.com/oliinykm99/gmx-st-dashboard)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oliinykm99&repo=ETH-XGBoost-prediction&theme=dark&hide_border=true)](https://github.com/oliinykm99/ETH-XGBoost-prediction)</br>
 ---
 [![](https://visitcount.itsvg.in/api?id=oliinykm99&icon=0&color=12)](https://visitcount.itsvg.in)
