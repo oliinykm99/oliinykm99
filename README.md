@@ -13,5 +13,6 @@ Hello! I'm a Quantitative Researcher with a strong focus on data analysis, finan
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oliinykm99&repo=gmx-st-dashboard&theme=dark&hide_border=true)](https://github.com/oliinykm99/gmx-st-dashboard)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oliinykm99&repo=ETH-XGBoost-prediction&theme=dark&hide_border=true)](https://github.com/oliinykm99/ETH-XGBoost-prediction)</br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oliinykm99&repo=BlockWatcher&theme=dark&hide_border=true)](https://github.com/oliinykm99/BlockWatcher)
 ---
 [![](https://visitcount.itsvg.in/api?id=oliinykm99&icon=0&color=12)](https://visitcount.itsvg.in)
