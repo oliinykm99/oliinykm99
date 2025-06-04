@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I'm a Quantitative Analyst with a strong focus on data analysis, financial modeling, and blockchain technologies. I enjoy working on projects that involve complex data sets and cutting-edge technologies.
+Hello! I'm a Data Engineer and Quantitative Analyst with a strong focus on data analysis, financial modeling, and blockchain technologies. I enjoy working on projects that involve complex data sets and cutting-edge technologies.
 
 
 ## 🌐 Socials:
