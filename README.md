@@ -50,20 +50,32 @@ Hello! I'm a Data Engineer and Quantitative Analyst with a strong focus on data 
 
 ## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/oliinykm99/gmx-st-dashboard" title="GMX ST Dashboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=oliinykm99&repo=gmx-st-dashboard&theme=dark&hide_border=true" alt="GMX ST Dashboard" style="margin: 5px;" />
-  </a>
-  <a href="https://github.com/oliinykm99/ETH-XGBoost-prediction" title="ETH XGBoost Prediction">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=oliinykm99&repo=ETH-XGBoost-prediction&theme=dark&hide_border=true" alt="ETH XGBoost Prediction" style="margin: 5px;" />
-  </a>
-  <a href="https://github.com/oliinykm99/BlockWatcher" title="BlockWatcher">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=oliinykm99&repo=BlockWatcher&theme=dark&hide_border=true" alt="BlockWatcher" style="margin: 5px;" />
-  </a>
-  <a href="https://github.com/oliinykm99/liquity_v2" title="Liquity V2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=oliinykm99&repo=liquity_v2&theme=dark&hide_border=true" alt="Liquity V2" style="margin: 5px;" />
-  </a>
-</p>
+<table align="center" style="margin-left:auto; margin-right:auto;">
+  <tr>
+    <td style="padding: 10px;">
+      <a href="https://github.com/oliinykm99/BlockWatcher" title="BlockWatcher">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=oliinykm99&repo=BlockWatcher&theme=dark&hide_border=true" alt="BlockWatcher" />
+      </a>
+    </td>
+    <td style="padding: 10px;">
+      <a href="https://github.com/oliinykm99/liquity_v2" title="Liquity V2">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=oliinykm99&repo=liquity_v2&theme=dark&hide_border=true" alt="Liquity V2" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 10px;">
+      <a href="https://github.com/oliinykm99/gmx-st-dashboard" title="GMX ST Dashboard">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=oliinykm99&repo=gmx-st-dashboard&theme=dark&hide_border=true" alt="GMX ST Dashboard" />
+      </a>
+    </td>
+    <td style="padding: 10px;">
+      <a href="https://github.com/oliinykm99/ETH-XGBoost-prediction" title="ETH XGBoost Prediction">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=oliinykm99&repo=ETH-XGBoost-prediction&theme=dark&hide_border=true" alt="ETH XGBoost Prediction" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
