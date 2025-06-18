@@ -41,7 +41,7 @@ Hello! I'm a Data Engineer and Quantitative Analyst with a strong focus on data 
       <img src="https://git-hub-streak-stats.vercel.app/?user=oliinykm99&theme=dark&hide_border=true" alt="GitHub Streak" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliinykm99&theme=dark&hide=html,scss,stylus,blade,css,shell,batchfile,dockerfile,typescript&hide_border=true&include_all_commits=true&count_private=true&langs_count=5" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliinykm99&layout=donut&theme=dark&hide=html,scss,stylus,blade,css,shell,batchfile,dockerfile,typescript&hide_border=true&include_all_commits=true&count_private=true&langs_count=5" alt="Top Languages" />
     </td>
   </tr>
 </table>
