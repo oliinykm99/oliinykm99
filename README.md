@@ -32,20 +32,6 @@ Hello! I'm a Data Engineer and Quantitative Analyst with a strong focus on data 
 ### Other Tools 
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
-
-# 📊 GitHub Stats
-
-<table align="center" style="margin-left:auto; margin-right:auto;">
-  <tr>
-    <td style="padding-right: 20px;">
-      <img src="https://git-hub-streak-stats.vercel.app/?user=oliinykm99&theme=dark&hide_border=true" alt="GitHub Streak" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliinykm99&layout=donut&theme=dark&hide=html,scss,stylus,blade,css,shell,batchfile,dockerfile,typescript&hide_border=true&include_all_commits=true&count_private=true&langs_count=5" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
 ---
 
 <p align="center">
